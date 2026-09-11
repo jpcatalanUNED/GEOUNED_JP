@@ -19,7 +19,7 @@ For example, enclosure1_0_ is enclosure 1 that has not any enclosure above him a
 number 2 that is under enclosure 1. 
 There are no restrictions on the level of dependence on enclosures. 
 Also, each enclosure should be completely inscribed inside the upper enclosure (part of one enclosure cannot be outside
- the upper enclosure). 
+the upper enclosure). 
 
 .. image:: /images/CADTreeEnclosures.png
    :alt: Example of a CAD tree with enclosures and envelopes with dedicated tags highlighted in red.
