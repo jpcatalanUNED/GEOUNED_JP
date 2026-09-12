@@ -19,7 +19,7 @@ Also, each enclosure must be completely inscribed within its parent enclosure (p
 .. image:: /images/CADTreeEnclosures.png
    :alt: Example of a CAD tree with enclosures and envelopes with dedicated tags highlighted in red.
    :align: center
-   :width: 50%
+   :width: 30%
 
 Enclosure solids can be defined anywhere in the CAD model tree. By default, the void cells corresponding to each enclosure are written in the MCNP output file after all the solid definitions, regardless of their position in the CAD model tree. Enclosures appear in the output file in the same order (top to bottom) as in the CAD model tree. The last void cells written to the output file are the level-0 voids, i.e., those outside any enclosure.
 
